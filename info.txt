@@ -1,1 +1,2 @@
 Autor: Dawid Pątko
+Kurs: Technologie DevOps
